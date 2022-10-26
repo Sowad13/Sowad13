@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Blockchain, Data Structure, Algorithms!
 - 📫 How to reach me: mejbahurrahman13@gmail.com
-- :stars: :ocean: I dream of wandering in space and underwater someday! 
+- :stars: :ocean: I dream of exploring the depths of space and oceans myself someday! 
 <br>
 
 ## Languages and Tools:
