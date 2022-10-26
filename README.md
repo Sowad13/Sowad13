@@ -4,9 +4,8 @@
 <p align="center"> 
 	<img src="https://readme-typing-svg.herokuapp.com?color=%red&duration=6000&lines=Self++motivated+developer+and+problem++solver;Love+to+<Code/>;Interested+in++Artificial+Intelligence;Enthusiastic+about++Blockchain;Into+new++Technology!!&center=true&width=500&height=45">
 </p>
-<br>
 
-<h3> About Me </h3>
+## About Me 
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Blockchain, Data Structure, Algorithms!
@@ -14,9 +13,10 @@
 - :stars: :ocean: I dream of wandering in space and underwater someday! 
 <br>
 
-### Languages and Tools:
-#
+## Languages and Tools:
+
 ![Languages and Tools](https://skillicons.dev/icons?i=html,tailwindcss,java,js,py,cpp,nextjs,react,flutter,github,vscode,androidstudio)
+<br>
 <br>
 
 ## My Github Stats
