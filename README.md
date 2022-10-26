@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2192FF&duration=6000&lines=Self++motivated+developer+and+problem++solver;love+to+<Code/>;Interested+in++Artificial+Intelligence;Enthusiastic+about++Blockchain;Into+new++Technology!!&center=true&width=500&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2192FF&duration=6000&lines=Self++motivated+developer+and+problem++solver;Love+to+<Code/>;Interested+in++Artificial+Intelligence;Enthusiastic+about++Blockchain;Into+new++Technology!!&center=true&width=500&height=45"></a>
 </p>
 <br>
 
