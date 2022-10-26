@@ -1,3 +1,5 @@
+<p align="center" width="10%"> <img src="eng-pn.png" alt=""></p>
+
 <h1 align="center">Hi! :wave:  This is Sowad</h1>
 
 
@@ -21,7 +23,7 @@
 
 ## My Github Stats
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sowad13's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Sowad13&theme=chartreuse-dark&hide_border=true&bg_color=transparent"/>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sowad13's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Sowad13&theme=gruvbox_duo&hide_border=true&bg_color=transparent"/>
 </p>
 
 
@@ -30,5 +32,7 @@
     <img width="40%" alt="Github Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowad13&theme=transparent&layout=compact&hide_border=true&title_color=38E54D">
 </p>
 <br><br><br>
-<h2 align="center">THANKS FOR VISITING</h2>
+
+<h2 align="center">THANKS FOR VISITING! :heart_on_fire:</h2>
+
 
