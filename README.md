@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-	<img src="https://readme-typing-svg.herokuapp.com?color=%red&duration=6000&lines=Self++motivated+developer+and+problem++solver;Love+to+<Code/>;Interested+in++Artificial+Intelligence;Enthusiastic+about++Data Science;Into+new++Technology!!&center=true&width=500&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?color=%red&duration=6000&lines=Self++motivated+developer+and+problem++solver;Love+to+<Code/>;Interested+in++Artificial+Intelligence;Enthusiastic+about++BlockChain;Into+new++Technology!!&center=true&width=500&height=45">
 </p>
 
 ## About Me 
